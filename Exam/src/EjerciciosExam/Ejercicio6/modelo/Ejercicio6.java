@@ -1,13 +1,10 @@
-
 package modelo;
 
-
-public class Ejercicio_6 {
+public class Ejercicio6 {
 
    private int  Id;
    private String State;
    private String Acronym;
-
     /**
      * @return the Id
      */
